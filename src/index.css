@@ -40,3 +40,12 @@ button {
   color: brown;
   cursor: pointer;
 }
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+a {
+  text-decoration: none;
+  color: gray;
+}
