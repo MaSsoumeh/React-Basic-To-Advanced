@@ -1,0 +1,17 @@
+.book {
+  background-color: white;
+  border-radius: 10px;
+  padding: 2rem;
+}
+.book h2 {
+  color: brown;
+}
+.book p {
+  margin-top: 0.5rem;
+}
+.author {
+  color: cadetblue;
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+  word-spacing: 0.2rem;
+}
