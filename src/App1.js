@@ -1,5 +1,5 @@
 // import DynamicBookList from './components/DynamicBookList';
-import StaticBookList from './basicReact/components/StaticBookList';
+import DynamicBookList from './advancedReact/useStateHook/DynamicBookList';
 
 function App1() {
   return (
@@ -8,8 +8,8 @@ function App1() {
         <h1 style={{ textAlign: 'center' }}>ReadLine Library</h1>
       </header>
 
-      {/* <DynamicBookList /> */}
-      <StaticBookList />
+      <DynamicBookList />
+      {/* <StaticBookList /> */}
     </div>
   );
 }
